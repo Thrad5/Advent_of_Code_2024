@@ -1,0 +1,14 @@
+﻿  AoC_1_1.cpp
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4305:         with
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4305:         [
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4305:             _Elem=char
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4305:         ]
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(30,41): warning C4309: 'argument': truncation of constant value
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4305:         with
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4305:         [
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4305:             _Elem=char
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4305:         ]
+D:\!Advent_of_Code\2024\AoC_1_1\AoC_1_1\AoC_1_1.cpp(31,38): warning C4309: 'argument': truncation of constant value
+  AoC_1_1.vcxproj -> D:\!Advent_of_Code\2024\AoC_1_1\x64\Debug\AoC_1_1.exe

@@ -1,0 +1,15 @@
+﻿  AoC_day_17.cpp
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(26,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(29,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(32,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(35,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(97,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(100,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(103,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(106,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(115,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(118,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(121,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(124,23): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_17\AoC_day_17\AoC_day_17.cpp(152,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AoC_day_17.vcxproj -> D:\!Advent_of_Code\2024\AoC_day_17\x64\Debug\AoC_day_17.exe

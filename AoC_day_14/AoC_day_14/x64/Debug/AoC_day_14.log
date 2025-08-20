@@ -1,0 +1,3 @@
+﻿  AoC_day_14.cpp
+D:\!Advent_of_Code\2024\AoC_day_14\AoC_day_14\AoC_day_14.cpp(50,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AoC_day_14.vcxproj -> D:\!Advent_of_Code\2024\AoC_day_14\x64\Debug\AoC_day_14.exe

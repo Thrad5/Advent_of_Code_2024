@@ -1,0 +1,3 @@
+﻿  AoC_day_23.cpp
+D:\!Advent_of_Code\2024\AoC_day_23\AoC_day_23\AoC_day_23.cpp(110,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  AoC_day_23.vcxproj -> D:\!Advent_of_Code\2024\AoC_day_23\x64\Debug\AoC_day_23.exe

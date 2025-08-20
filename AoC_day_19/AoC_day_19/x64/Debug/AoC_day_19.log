@@ -1,0 +1,5 @@
+﻿  AoC_day_19.cpp
+D:\!Advent_of_Code\2024\AoC_day_19\AoC_day_19\AoC_day_19.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\!Advent_of_Code\2024\AoC_day_19\AoC_day_19\AoC_day_19.cpp(25,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_19\AoC_day_19\AoC_day_19.cpp(214,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AoC_day_19.vcxproj -> D:\!Advent_of_Code\2024\AoC_day_19\x64\Debug\AoC_day_19.exe

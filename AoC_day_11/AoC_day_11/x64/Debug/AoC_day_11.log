@@ -1,0 +1,23 @@
+﻿  AoC_day_11.cpp
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(38,24): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(39,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(45,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(46,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(47,43): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(63,39): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(63,39): warning C4244:         with
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(63,39): warning C4244:         [
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(63,39): warning C4244:             _Ty=int
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(63,39): warning C4244:         ]
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(88,24): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(92,36): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(92,36): warning C4244:         with
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(92,36): warning C4244:         [
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(92,36): warning C4244:             _Ty=int
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(92,36): warning C4244:         ]
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(102,45): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(102,45): warning C4244:         with
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(102,45): warning C4244:         [
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(102,45): warning C4244:             _Ty=int
+D:\!Advent_of_Code\2024\AoC_day_11\AoC_day_11\AoC_day_11.cpp(102,45): warning C4244:         ]
+  AoC_day_11.vcxproj -> D:\!Advent_of_Code\2024\AoC_day_11\x64\Debug\AoC_day_11.exe
